@@ -10,4 +10,4 @@ Credit:
 
 Extra Credit: 
 -	To all the teachers, labbies, friends, and family who helped me learn all of this stuff!
--	To Lari Nori for helping me discover my interest in Graphics Programming!
+-	To Lari Norri for helping me discover my interest in Graphics Programming!
