@@ -1,7 +1,7 @@
 # Polyngine
 POLYNGINE					POLYN RENDERER					SPORE EDITOR
 
-For information on the engine and how to use it, please see the attached documentation in the ".../Polyn/Documentation" directory of the game engine files.
+For information on the engine and how to use it, please see the attached documentation in the "/Documentation/PolynginBreakdown.docx" directory of the game engine files.
 
 Credit:
 -	DDSTextureLoader by Microsoft		- https://github.com/Microsoft/DirectXTK/wiki/DDSTextureLoader
